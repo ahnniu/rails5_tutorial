@@ -1,24 +1,25 @@
-# README
+# Rails 5 Tutorial
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a Rails practice project for me to study Ruby on Rails. It's based on the sample application of [*Ruby on Rails Tutorial:Learn Web Development with Rails*](http://www.railstutorial.org/) by [Michael Hartl](http://www.michaelhartl.com/).
 
-Things you may want to cover:
+I use [rbenv](https://github.com/rbenv/rbenv) with [rbenv-gemset](https://github.com/jf/rbenv-gemset) to manage my ruby environment.
 
-* Ruby version
 
-* System dependencies
+## How to
 
-* Configuration
+### Ruby environment
 
-* Database creation
+- [rbenv](https://github.com/rbenv/rbenv) with [rbenv-gemset](https://github.com/jf/rbenv-gemset)
+- local gemset(.gems)
+- Ruby version 2.4.1
+- Rails version 5.2.1
 
-* Database initialization
+### Install
 
-* How to run the test suite
+```bash
+$ cd /project/path
+$ gem install bundler
+$ bin/bundle install
+$ bin/rails server
+```
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
