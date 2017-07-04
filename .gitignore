@@ -21,3 +21,11 @@
 /yarn-error.log
 
 .byebug_history
+
+# Ignore local gemsets
+.gems
+
+# Ignore ctags files
+.tags
+.gemtags
+.tags_sorted_by_file
