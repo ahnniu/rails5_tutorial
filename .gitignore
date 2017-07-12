@@ -29,3 +29,6 @@
 .tags
 .gemtags
 .tags_sorted_by_file
+
+# Ignore sublime text workspace file
+*.sublime-workspace
