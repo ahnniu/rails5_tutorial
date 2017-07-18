@@ -32,3 +32,6 @@
 
 # Ignore sublime text workspace file
 *.sublime-workspace
+
+# Ignore yard doc
+.yardoc
