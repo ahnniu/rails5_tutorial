@@ -3,7 +3,7 @@
 	[
 		{
 			"path": ".",
-      "folder_exclude_patterns": [".gems","tmp", "doc"],
+      "folder_exclude_patterns": [".gems","tmp", "doc", ".yardoc"],
       "file_exclude_patterns": [".tags", ".tags_sorted_by_file"],
 		}
 	]
