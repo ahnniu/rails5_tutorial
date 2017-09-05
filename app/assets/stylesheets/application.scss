@@ -20,12 +20,20 @@
   margin-bottom: 0;
 }
 
+.main {
+  min-height: 200px;
+  margin-bottom: 10px;
+}
+
 .footer {
   padding-top: 15px;
   width: 100%;
-  position: absolute;
-  bottom: 0;
   background-color: #f5f5f5;
 
 
+}
+
+
+.debug-params {
+  margin-top: 10px;
 }
